@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zakmafia
-- 👀 I’m interested in graphics designing and mobile app development
+- 👀 I’m interested in Full Stack Web development.
 - 📫 Contact me at zekariasmesfin100@gmail.com
 
 <!---
